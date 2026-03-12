@@ -1,0 +1,43 @@
+#EXTM3U url-tvg="https://cvtv.xyz/xmltv"
+#EXTINF:-1 group-title="World News" tvg-name="ABC Australia",ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="Al Jazeera English",Al Jazeera English
+https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="Arirang",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="BBC News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="Bloomberg TV",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="Berita RTM",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
+#EXTINF:-1 group-title="World News" tvg-name="CNBC",CNBC
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="CNA International",CNA International
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="CNA Insider",CNA Insider
+https://amg01082-amg01082c1-cna-worldwide-2842.playouts.now.amagi.tv/cna-cnanews-samsung/playlist1080p.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="CNN",CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/2d44d628-2091-4162-ac14-55e19e213f08/0.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="CNN INDONESIA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1944996222_b384000_sleng.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="CGTN",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master1080p.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="DW English",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="France 24 English",France 24 English
+https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="IRAN INTERNATIONAL",IRAN INTERNATIONAL
+https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="NHK World",NHK World
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="Press TV",Press TV
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="RT English",RT English
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="THAI PBS",THAI PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="TVRI Nasional",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10004-mp4a_96000_eng=20000.m3u8
+#EXTINF:-1 group-title="World News" tvg-name="TVRI World",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8

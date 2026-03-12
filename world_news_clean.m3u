@@ -1,58 +1,44 @@
-#EXTM3U url-tvg="https://cvtv.xyz/xmltv" x-tvg-url="https://cvtv.xyz/xmltv"
-#PLAYLIST:World News by HUNG - Pro
-
-# ===== Business News =====
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bloomberg_Television-alt.svg/1024px-Bloomberg_Television-alt.svg.png" group-title="Business News",Bloomberg TV
-https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/1200px-CNBC_2023.svg.png" group-title="Business News",CNBC
-https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
-
-# ===== Documentary & Current Affairs =====
-#EXTINF:-1 tvg-id="CNAInsider.sg" tvg-name="CNA Insider" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/250px-CNA_new_logo.svg.png" group-title="Documentary & Current Affairs",CNA Insider
-https://amg01082-amg01082c1-cna-worldwide-2842.playouts.now.amagi.tv/cna-cnanews-samsung/playlist1080p.m3u8
-
-# ===== News | Americas =====
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News | Americas",CNN
-https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/2d44d628-2091-4162-ac14-55e19e213f08/0.m3u8
-
-# ===== News | Asia =====
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/330px-Arirang_logo.png" group-title="News | Asia",Arirang
+#EXTM3U url-tvg="http://cvtv.xyz/xmltv"
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="ABC Australia.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/1024px-ABC_News_%28Australia%29_logo.svg.png",ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Al Jazeera English
+https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="Arỉang.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/330px-Arirang_logo.png",Ariang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/960px-Logo_Berita_RTM.png" group-title="News | Asia",Berita RTM
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="Bloomberg.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bloomberg_Television-alt.svg/1024px-Bloomberg_Television-alt.svg.png",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="Berita RTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/960px-Logo_Berita_RTM.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News | Asia",CGTN
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master1080p.m3u8
-#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/250px-CNA_new_logo.svg.png" group-title="News | Asia",CNA International
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="cnbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/1200px-CNBC_2023.svg.png",CNBC
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="CNA.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/250px-CNA_new_logo.svg.png",CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/250px-CNN_Indonesia_logo.svg.png" group-title="News | Asia",CNN Indonesia
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="CNA.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/250px-CNA_new_logo.svg.png",CNA Insider
+https://amg01082-amg01082c1-cna-worldwide-2842.playouts.now.amagi.tv/cna-cnanews-samsung/playlist1080p.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="CNNInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/2d44d628-2091-4162-ac14-55e19e213f08/0.m3u8
+#EXTINF: -1 group-title="TIN TỨC QUỐC TẾ" tvg-id="CNNIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/250px-CNN_Indonesia_logo.svg.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1944996222_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="News | Asia",NHK World
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master1080p.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 English
+https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
+#EXTINF: -1 group-title="TIN TỨC QUỐC TẾ" tvg-id="IRAN INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/330px-Iran_International.svg.png",IRAN INTERNATIONAL
+https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png",NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="Thai PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Thai_PBS_Logo.svg/250px-Thai_PBS_Logo.svg.png" group-title="News | Asia",Thai PBS
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="Press TV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png",Press TV
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",RT English
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF: -1 group-title="TIN TỨC QUỐC TẾ" tvg-id="THAIPBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Thai_PBS_Logo.svg/250px-Thai_PBS_Logo.svg.png",THAI PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="News | Asia",TVRI Nasional
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="TVRI Nasional.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10004-mp4a_96000_eng=20000.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-name="TVRI World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/TVRIWorld.png" group-title="News | Asia",TVRI World
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="TVRI World.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/TVRIWorld.png",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
 
-# ===== News | Europe =====
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="News | Europe",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="News | Europe",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="News | Europe",France 24 English
-https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="RTEnglish.ru" tvg-name="RT English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="News | Europe",RT English
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-
-# ===== News | Middle East =====
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png" group-title="News | Middle East",Al Jazeera English
-https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
-#EXTINF:-1 tvg-id="IranInternational.uk" tvg-name="Iran International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/330px-Iran_International.svg.png" group-title="News | Middle East",Iran International
-https://live.playstop.me/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png" group-title="News | Middle East",Press TV
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-
-# ===== News | Oceania =====
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/1024px-ABC_News_%28Australia%29_logo.svg.png" group-title="News | Oceania",ABC Australia
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8

@@ -25,6 +25,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1944996222_b384
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master1080p.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="Enronews.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/960px-Euronews_2016_logo.svg.png",EURONEWS
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 English
 https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
 #EXTINF: -1 group-title="TIN TỨC QUỐC TẾ" tvg-id="IRAN INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/330px-Iran_International.svg.png",IRAN INTERNATIONAL
@@ -43,3 +45,4 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=1000
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="Vietnam Today.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vietnam_Today_Logo.png/960px-Vietnam_Today_Logo.png",Vietnam Today
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_2276394438329724940.m3u8
+

@@ -46,11 +46,13 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="Vietnam Today.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vietnam_Today_Logo.png/960px-Vietnam_Today_Logo.png",Vietnam Today
 https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_2276394438329724940.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="VTV1.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_VTV1_HD.png/960px-Logo_VTV1_HD.png",VTV1HD
-https://cdn-live.vtv.vn/AtdTii8xgsuWCZhOgjx6cw/1775030722/live/vtv1/vtv1-720p.m3u8
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="VTV2.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/960px-VTV2_logo_2013_final.svg.png",VTV2HD
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="VTV3.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Vtv3_hd.png",VTV3HD
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="VTV4.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",VTV4HD
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="VTV5TNB.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV5-TayNamBo.png",VTV5 Tây Nam Bộ
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/04.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="VTV5TN.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/960px-Vtv5taynguyen_logo.svg.png",VTV5 Tây Nguyên

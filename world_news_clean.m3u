@@ -61,4 +61,7 @@ https://liveh12.vtvprime.vn/hls/VTV5_TN/03.m3u8
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="VTV8.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8HD
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="VTV9.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/9e/VTV9_HD.png",VTV9HD
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="VTV10.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png",VTV10HD
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8

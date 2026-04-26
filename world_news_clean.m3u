@@ -23,13 +23,13 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF: -1 group-title="TIN TỨC QUỐC TẾ" tvg-id="CNNIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/250px-CNN_Indonesia_logo.svg.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1944996222_b384000_sleng.m3u8
-#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",CGTN
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master1080p.m3u8
-#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW English
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/DW_News_Logo.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="Enronews.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/960px-Euronews_2016_logo.svg.png",EURONEWS
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 English
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/1280px-France_24_logo_%282013%29.svg.png",France 24 English
 https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
 #EXTINF: -1 group-title="TIN TỨC QUỐC TẾ" tvg-id="IRAN INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/330px-Iran_International.svg.png",IRAN INTERNATIONAL
 https://live.playstop.me/LS-63503-4/index.m3u8

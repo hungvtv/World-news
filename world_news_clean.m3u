@@ -41,7 +41,7 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF: -1 group-title="TIN TỨC QUỐC TẾ" tvg-id="THAIPBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Thai_PBS_Logo.svg/250px-Thai_PBS_Logo.svg.png",THAI PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="TVRI Nasional.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png",TVRI Nasional
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="TVRI Nasional.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TVRI_Nasional_2019.svg/1280px-TVRI_Nasional_2019.svg.png",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10004-mp4a_96000_eng=20000.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="TVRI World.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/TVRIWorld.png",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8

@@ -7,7 +7,7 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="Bloomberg.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bloomberg_Television-alt.svg/1024px-Bloomberg_Television-alt.svg.png",Bloomberg TV
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="Bloomberg.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/1280px-Bloomberg_Television_logo.svg.png",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="Berita RTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/960px-Logo_Berita_RTM.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
